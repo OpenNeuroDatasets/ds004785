@@ -1,0 +1,14 @@
+{
+  "PowerLineFrequency": 60,
+  "TaskName": "unnamed",
+  "EEGChannelCount": 32,
+  "EEGReference": "average",
+  "RecordingType": "epoched",
+  "EpochLength": 4,
+  "RecordingDuration": 4,
+  "SamplingFrequency": 500,
+  "EOGChannelCount": 0,
+  "ECGChannelCount": 0,
+  "EMGChannelCount": 0,
+  "SoftwareFilters": "n/a"
+}
